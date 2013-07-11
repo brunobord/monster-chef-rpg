@@ -88,8 +88,8 @@ class HTMLWriter(object):
     def write(self, base, data):
         "Write content to the destination path"
         path_prefix = '..'
-        quiet_mkdir(os.path.join(self.build_path, base))
         if base != 'intro':
+            quiet_mkdir(os.path.join(self.build_path, base))
             destination = os.path.join(os.path.join(self.build_path, base, 'index.html'))
         else:
             # special case: intro is the root index
