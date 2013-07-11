@@ -35,7 +35,7 @@ BUILD_PATH = os.path.abspath(os.path.join('.', 'build'))
 STATIC_PATH = os.path.join(BUILD_PATH, 'static')
 VENDOR_PATH = os.path.join(BUILD_PATH, 'vendor')
 
-NAVIGATION = json.loads(open('navigation.json', 'r').read())
+NAVIGATION = json.load(open('navigation.json', 'r'))
 
 now = datetime.datetime.now()
 
