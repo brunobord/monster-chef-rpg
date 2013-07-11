@@ -1,0 +1,10 @@
+[
+    {"caption": "First section"},
+    {"url": "quickstart", "caption": "Quickstart"},
+    {"caption": "Next section"},
+    {"url": "chapter", "caption": "Chapter 1", "children": [
+        {"url": "subchapter", "caption": "Sub chapter"},
+        {"url": "othersub", "caption": "Other"}
+    ]},
+    {"url": "credits", "caption": "Credits"}
+]
