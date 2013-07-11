@@ -16,7 +16,7 @@ blockquote {
   font-style: italic;
 }
 pre, code, table, tr, td, th {
-  font-family: 'Droid Sans Mono', sans-serif;
+  font-family: 'Droid Sans Mono', monospace;
 }
 .footer {
   margin-top: 3em;
