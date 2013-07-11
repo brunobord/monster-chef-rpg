@@ -6,6 +6,8 @@ Summary: Help page for the impatient
 Here you can describe your project, using a simple Markdown file, and put
 [links][link] and other cool markdown stuff.
 
+Your booklet source files (markdown documents) should be in the `src` directory.
+
 This is a Github-flavored markdown parser, so you can add:
 
 > Quotes to enhance your text.
