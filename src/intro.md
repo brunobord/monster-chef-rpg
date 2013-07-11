@@ -90,7 +90,13 @@ look and feel in the `style.css` file. The sky is the limit.
 
 #### Samples
 
-!!! 
+!!! warning
+
+    This is a warning
+
+!!! handwritten "example"
+
+    Handwritten text is so pretty.
 
 ## Navigation
 
