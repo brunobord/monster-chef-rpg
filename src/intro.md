@@ -50,7 +50,13 @@ This will add the fragment to the target document.
 
 ### Admonitions
 
-You can add ReST-like admonitions this way:
+Available pre-built ReST-like admonitions:
+
+* note
+* rule
+* info
+* warning
+* handwritten
 
 ```
     !!! note
@@ -66,16 +72,25 @@ will be generated as:
     This is a note and this will be transformed into a "div.note" HTML tag
     container.
 
-Available pre-built admonitions:
+If you want, you may add a custom title to your admonition:
 
-* note
-* rule
-* info
-* warning
-* handwritten
+```
+    !!! info "Helpful reminder"
+
+        You are reminded that you can add titles.
+```
+
+!!! info "Helpful reminder"
+
+    You are reminded that you can add titles.
+
 
 You can add as many admonition as you want, you'll only have to define the CSS
 look and feel in the `style.css` file. The sky is the limit.
+
+#### Samples
+
+!!! 
 
 ## Navigation
 
