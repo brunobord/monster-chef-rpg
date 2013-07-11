@@ -11,7 +11,7 @@ Usage:
 
 You can cleanup the `build` directory by using the "clean" command, too.
 
-    :license: BSD, see LICENSE for details
+    :license: MIT, see README.md for details
     :copyright: 2013 by Bruno Bord
 """
 import os
