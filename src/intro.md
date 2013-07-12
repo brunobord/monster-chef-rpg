@@ -11,3 +11,65 @@ rapidement. L'objectif de ce jeu est de s'amuser et de mettre les personnages
 dans des situations périlleuses (le coup de feu, quand le client est un Dragon
 prend tout son sens) tout en restant rocambolesques, voire *Toonesques*.
 
+## Les protagonistes
+
+Dans *Monster Chef*, le maître de jeu est appelé **Maître d'Hôtel** (ou MH),
+comme il se doit.
+
+Les Personnages Joueurs (ou PJ) seront tous "en cuisine". Leurs compétences et
+leurs spécialités seront déterminées dans la section sur la
+[Création des personnages][creation-des-personnages]. L'espèce (humaine,
+animale, autre ?) sera déterminée en fonction de l'Univers dans lequel ils
+auront été projetés. Ces personnages peuvent facilement être inventés pour un
+"one-shot" mais rien n'empêche les joueurs de se resservir de ces personnages
+dans d'autres aventures (y compris dans un Univers différent).
+
+La section sur l'expérience indiquera comment faire "progresser" les personnages
+d'aventure en aventure.
+
+Les **Personnages Non-Joueurs** (ou PNJ) sont les clients, et les serveurs. Tout
+se qui se passe "en salle" est hors de portée des PJs. Ils peuvent penser que
+cet "outre-paravent" est une protection pour eux... Il n'en sera rien, parce que
+le client, même s'il est en-dehors de la cuisine sera leur pire cauchemar. Un
+cauchemar qui a toujours raison.
+
+## Déroulement du jeu
+
+1. [Choix de l'Univers][choix-de-l-univers]
+2. [Nommer le restaurant (ou la cuisine)][nommer-le-restaurant]
+3. [Création des personnages][creation-des-personnages]
+4. Un service
+    1. Une commande
+    2. Entrée / plat / dessert
+    4. "Ça marche !"
+    5. "Je veux voir le chef" - le digestif
+    6. D'autres clients ?
+5. Un digestif et l'addition
+
+
+## Choix de l'Univers
+
+L'univers est libre. Le contexte est à la discrétion des Joueurs ou du Maître
+d'Hôtel. Médiéval-Fantastique, Science-Fictionnesque... La cuisine se situe-t-elle
+dans un Château Hanté, domaine d'un Vampire Végétarien ? Sur une Station Spatiale
+en orbite autour d'une planète composée uniquement de Bacon ? Est-ce une Auberge ?
+Un Dernier Restaurant Avant la Fin du Monde ?
+
+## Nommer le Restaurant
+
+Si l'Univers est la cuisine d'un Restaurant ou d'une Auberge, il convient de 
+lui trouver un nom. Les Joueurs ont 5 minutes pour essayer de trouver un nom.
+C'est la première occasion qu'auront les Joueurs de s'amuser : un brainstorming
+peut amener être ponctué de nombreux fou-rires.
+
+Si les joueurs n'arrivent pas à s'entendre sur le nom du Restaurant au bout des
+5 minutes, c'est le Maître d'Hôtel qui tranchera en prenant la suggestion qu'il
+préfère. Après tout, c'est lui le patron...
+
+## Création des personnages
+
+TODO
+
+[choix-de-l-univers]: #choix-de-lunivers
+[nommer-le-restaurant]: #nommer-le-restaurant
+[creation-des-personnages]: #creation-des-personnages
