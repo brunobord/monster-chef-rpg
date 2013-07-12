@@ -19,7 +19,7 @@
 	<div class="row">
 		<section class="span3">
 			<ul class="nav nav-list">
-				<li {% if current == 'intro' %}class="active"{% endif %}><a href="{{ path_prefix }}/">Home</a>
+				<li {% if current == 'intro' %}class="active"{% endif %}><a href="{{ path_prefix }}/">Le jeu</a>
 				{% for item in navigation recursive %}
 				{% if item.url %}
 					<li {% if item.url == current %}class="active"{% endif %}><a href="{{ path_prefix }}/{{ item.url }}/">{{ item.caption }}</a></li>
