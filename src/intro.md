@@ -133,9 +133,10 @@ pour lesquelles le personnage a le moins de talent ou d'attirance. Le score de
 3 devra être attribué à la compétence liée à la spécialité du Joueur.
 
 > McBrainding est "saucier" de formation. Aussi il décide d'attribuer un score
-> de 3 à la compétence **assaisonner**. Il sera amené à **touiller** les
-> ingrédients pour faire sa sauce, aussi il met 4 à cette compétence. Reste à
-> donner 5 aux autres compétences : **préparer**, **cuire** et **dresser**.
+> de **3** à la compétence **assaisonner**. Il sera amené à **touiller** les
+> ingrédients pour faire sa sauce, aussi il met **4** à cette compétence. Reste
+> à donner **5** aux autres compétences : **préparer**, **cuire** et
+> **dresser**.
 
 
 [choix-de-l-univers]: #choix-de-lunivers
