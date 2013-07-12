@@ -54,18 +54,19 @@ C'est ce **nombre** d'échecs qui est important. Pour chaque échec, le Maître
 d'Hotel, éventuellement aidé par les autres Personnages Joueurs devra affubler
 le malheureux d'un **Désagrément**. Il peut être de toute nature, en fonction
 des événements. Si le personnage cuit quelque chose, il peut se brûler,
-d'ébouillanter. S'il prépare, il peut se blesser en coupant un morceau. Le
-Maître d'Hôtel est libre d'indiquer la **durée** de ce Désagrément. Il peut
-durer
-
-* encore un tour de jeu,
-* jusqu'à la fin du Service,
-* définitivement.
+d'ébouillanter. S'il prépare, il peut se blesser en coupant un morceau.
 
 !!! rule "Combien ça coûte ?"
 
     Chaque **Désagrément** ajoute **UN** dé aux jets, dès lors que le Maître d'Hôtel
     décide que ce Désagrément s'applique (en général, à chaque fois).
+
+Le Maître d'Hôtel est libre d'indiquer la **durée** de ce Désagrément. Il peut
+durer :
+
+* encore un tour de jeu,
+* jusqu'à la fin du Service,
+* définitivement.
 
 Durant toute la durée du Désagrément, on pourra matérialiser ce malus par un
 jeton ou un dé de couleur différente posé devant le Joueur.
