@@ -79,6 +79,32 @@ jeton ou un dé de couleur différente posé devant le Joueur.
     encore le nombre de Désagréments potentiels, la partie risque rapidement de
     devenir injouable (lancer 30 dés en fin de partie, c'est assez laborieux).
 
+### Zéro échec !
+
+Avec un peu de chance, le Joueur peut lancer les dés de telle sorte qu'aucun
+échec n'y figure. C'est assez exceptionnel, aussi, il convient de récompenser le
+Personnage Joueur méritant en lui offrant un Joker. Lors de son prochain jet de
+dé, il pourra enlever un Échec et donc, un Désagrément de moins lui tombera sur
+la tête.
+
+Alternativement, le MH peut décider de lever un Désagrément déjà en cours.
+
+!!! warning "Prioritaire"
+
+    On regarde le potentiel des échec **avant** de pouvoir utiliser les Jokers.
+    Par exemple, si le jet de dé n'occasionne qu'un seul échec et que le PJ a un
+    Joker, il ne pourra pas "dépenser" son Joker pour arriver à un total de zéro
+    et donc obtenir un nouveau Joker.
+
+    Dans l'ordre :
+
+    * jet de dés
+    * comptage des échecs. S'il y en a zéro, on donne un Joker au joueur
+    * s'il y en a, le joueur peut dépenser un ou plusieurs Jokers à sa disposition
+      pour les effacer.
+    * les échecs restants sont appliqués normalement.
+
+
 ## Déroulement du jeu
 
 1. [Choix de l'Univers][choix-de-l-univers]
@@ -87,8 +113,8 @@ jeton ou un dé de couleur différente posé devant le Joueur.
 4. [Un service][un-service]
     1. [Une commande][une-commande]
     2. [La Réserve][la-reserve]
-    3. Entrée / plat / dessert
-    4. "Ça marche !"
+    3. [Entrée / plat / dessert][entree-plat-dessert]
+    4. "On envoie !"
     5. "Je veux voir le chef" - le digestif
     6. D'autres clients ?
 5. Un digestif et l'addition
@@ -163,19 +189,22 @@ En fonction des plats à préparer et de leur nature, les joueurs seront amenés
 Répartir les compétences : quand le personnage est créé, le Joueur doit répartir
 les scores comme suit :
 
-* trois scores de 5,
+* un score à 1,
+* un score à 2,
+* un score à 3,
 * un score à 4,
-* un score à 3.
+* un score à 5,
 
 Vous l'aurez compris, les scores de 4 et 5 devront être réservés aux compétences
 pour lesquelles le personnage a le moins de talent ou d'attirance. Le score de
-3 devra être attribué à la compétence liée à la spécialité du Joueur.
+1 devra être attribué à la compétence liée à la spécialité du Joueur.
 
 > McBrainding est "saucier" de formation. Aussi il décide d'attribuer un score
-> de **3** à la compétence **assaisonner**. Il sera amené à **touiller** les
-> ingrédients pour faire sa sauce, aussi il met **4** à cette compétence. Reste
-> à donner **5** aux autres compétences : **préparer**, **cuire** et
-> **dresser**.
+> de **1** à la compétence **assaisonner**. Il sera amené à **touiller** les
+> ingrédients pour faire sa sauce, aussi il met **2** à cette compétence. Il
+> décide que la préparation, c'est sa passion, alors il se donne un score de
+> **3** en **préparer**. Reste à donner **4** et **5** aux autres compétences :
+> **cuire** et **dresser**.
 
 Notez ces scores sur votre fiche. Tout y est.
 
@@ -274,6 +303,68 @@ se faire engueuler parce qu'il "en a mis du temps".
 > McBrainding aura, tout le long du Service, un dé de pénalité à cause des abeilles
 > qui le poursuivront sans arrêt.
 
+## Entrée / Plat / Dessert
+
+Pour chaque plat, les personnages devront s'activer pour couper, trancher,
+cuire, mijoter, saucer et finalement "envoyer" l'assiette.
+
+Les ingrédients bruts ne sont pas consommables, n'est-ce pas ? Donc, pour tous
+les plats, une fois les ingrédients rassemblés, il faudra faire un jet en
+**préparer**.
+
+Les entrées froides seront dispensées de cuisson, mais pour tous les autres
+plats, il faudra enchaîner par un jet en **cuire**. En cas de doute, c'est le
+Maître d'Hotel qui décide s'il faut **cuire** ou non le plat.
+
+La cuisson n'est rien si on ne mélange pas avec goût et soin les ingrédients et
+condiments entre eux. Il faudra donc généralement **touiller**. Le Maître d'Hôtel
+peut choisir de dispenser les PJ de cette action, mais la plupart du temps, cette
+étape est capitale.
+
+Du sel, du piment, une sauce (à la bave de crapaud-buffle). Il faudra souvent
+**assaisonner** les plats. Les desserts devraient être dispensés de ce jet de
+dés.
+
+La présentation, c'est la cerise sur le gâteau. Ou plutôt, l'oeil de cobra sur
+le pudding à l'arsenic. Un jet en **dresser** reste indispensable si on veut
+charmer les yeux de la clientèle. Même s'ils sont en nombre anormalement élevé.
+
+Chaque plat doit **absolument** passer par ces étapes dans l'ordre avant d'être
+envoyé en salle. Pour que les choses soient équitables, les PJ devront se répartir
+les tâches. Ce qui nécessite que par exemple un PJ ne puisse pas intervenir deux
+fois de suite sur le même plat.
+
+> **Exemple**
+> McBrainding a découpé aussi finement que possible le carpaccio de Licorne que
+> possible. Si le carpaccio n'est ni "cuit", ni "touillé", il n'en est pas moins
+> **assaisonné** (fines herbes, huile,...). Notre héros ne pourra pas **assaisonner**
+> ce plat. Il lui faudra forcément laisser ce soin à un autre Personnage Joueur.
+> En revanche, il pourrait effectuer le **dressage**. Mais s'il a une autre
+> préparation sur les bras, il faudra attendre.
+
+### Résolution des actions
+
+!!! rule "Combien de dés ?"
+
+    Pour chaque action, le Joueur devra lancer un nombre de dés équivalent à la
+    somme de :
+
+    * son score dans la compétence
+    * le nombre de dés de Désagréments en cours
+    * le nombre de convives en train d'être servis dans l'établissement
+
+> **Exemple** : Pour son jet de **préparation** du carpaccio, le pauvre McBrainding a
+> un score de **3** (c'est pas lui le meilleur, mais personne ne voulait s'y
+> coller, à ce carpaccio). Mais comme c'est le premier jet qu'il fait depuis
+> l'épisode de la Réserve, il a **deux dés** supplémentaires à lancer. Pour
+> couronner le tout, c'est un peu la pression, donc on rajoute **deux dés**.
+> Cela lui fera un total de **7 dés**.
+
+Une fois les dés lancés, on compte les échecs et on ajout les désagréments
+[comme pour les autres résolutions d'actions][resolution-des-actions].
+
+
+
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
 [creation-des-personnages]: #creation-des-personnages
@@ -281,3 +372,4 @@ se faire engueuler parce qu'il "en a mis du temps".
 [une-commande]: #une-commande
 [la-reserve]: #la-reserve
 [resolution-des-actions]: #resolution-des-actions
+[entree-plat-dessert]: #entree-plat-dessert
