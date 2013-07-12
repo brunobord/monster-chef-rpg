@@ -53,6 +53,7 @@ cauchemar qui a toujours raison.
     5. "Je veux voir le chef" - le digestif
     6. D'autres clients ?
 5. Un digestif et l'addition
+6. [Règles optionnelles][regles-optionnelles]
 
 
 ## Choix de l'Univers
@@ -162,7 +163,20 @@ PNJ, leurs demandes les plus farfelues et les plus abracadabrantes.
     continuer à cuisiner, jusqu'à ce que le client finisse la dernière miette de
     son assiette.
 
+
+
+## Règles optionnelles
+
+### L'équipement ?
+
+De manière optionnelle, le MH peut attribuer des "Ustensiles Magiques" aux
+personnages. Il est quand même recommandé de ne pas donner trop vite ces
+Ustensiles aux PJ, pour ne pas rendre trop faciles les premiers services.
+
+TODO: indications de quelques objets magiques et leurs effets.
+
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
 [creation-des-personnages]: #creation-des-personnages
 [un-service]: #un-service
+[regles-optionnelles]: #regles-optionnelles
