@@ -57,6 +57,9 @@ Un Dernier Restaurant Avant la Fin du Monde ?
 
 ## Nommer le Restaurant
 
+Si la cuisine ne se situe pas dans un établissement pour lequel il faut trouver
+un nom (ex: le Manoir), les joueurs peuvent passer cette étape.
+
 Si l'Univers est la cuisine d'un Restaurant ou d'une Auberge, il convient de 
 lui trouver un nom. Les Joueurs ont 5 minutes pour essayer de trouver un nom.
 C'est la première occasion qu'auront les Joueurs de s'amuser : un brainstorming
