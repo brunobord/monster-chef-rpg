@@ -111,12 +111,11 @@ Alternativement, le MH peut décider de lever un Désagrément déjà en cours.
 2. [Nommer le restaurant (ou la cuisine)][nommer-le-restaurant]
 3. [Création des personnages][creation-des-personnages]
 4. [Un service][un-service]
-    1. [Une commande][une-commande]
+    1. [Une Table][une-table]
     2. [La Réserve][la-reserve]
     3. [Entrée / plat / dessert][entree-plat-dessert]
-    4. "On envoie !"
-    5. "Je veux voir le chef" - le digestif
-    6. D'autres clients ?
+    4. ["On envoie !"][on-envoie]
+    5. [Le client est roi][le-client-est-roi]
 5. Un digestif et l'addition
 
 
@@ -233,10 +232,12 @@ caprices des PNJ, leurs demandes les plus farfelues et les plus abracadabrantes.
 Un service démarre toujours par l'arrivée d'un client (ou un convive, ou le
 Seigneur du Château), qui a faim. Une horrible faim...
 
-### Une commande
+### Une Table
 
 Le Maître d'Hôtel prend une fiche bristol et commence à marquer les éléments
-concernant les convive(s), tout en les décrivant aux Joueurs.
+concernant les convive(s), tout en les décrivant aux Joueurs. C'est sa **fiche
+Table**. Elle restera constamment dans le jeu jusqu'à ce que les convives soient
+partis de l'établissement.
 
 Après quoi, il leur lancera un "Préparez vos ustensiles, ça va chauffer !"
 tonitruant. (ça ou autre chose).
@@ -363,13 +364,66 @@ fois de suite sur le même plat.
 Une fois les dés lancés, on compte les échecs et on ajout les désagréments
 [comme pour les autres résolutions d'actions][resolution-des-actions].
 
+!!! rule "Comptage"
 
+    Pour chaque jet de dé, le MH doit noter le nombre d'échecs occasionnés en
+    regard de chaque plat sur sa fiche **Table**.
+
+## On envoie !
+
+Le plat est prêt. Il peut être envoyé en salle.
+
+Le MH doit demander aux Personnages Joueurs de décrire le plat du mieux qu'il le
+pourront, en fonction du résultat attendu mais aussi et surtout en fonction des
+différents Désagrément auxquels ils auront eu droit.
+
+Puis un serveur prend la ou les assiettes et l'envoie en salle. Le "Monstre"
+déguste (généralement gloutonnement). La messe est dite... La plupart du temps,
+les Joueurs n'auront pas le temps de souffler, car il leur faudra enchaîner sur
+un autre plat, pour un autre cycle.
+
+Une fois le coup de feu passé, ils pourront peut-être se reposer. Mais pas
+encore, pas encore...
+
+!!! rule "Le plat est-il bon ?"
+
+    Derrière le paravent, le MH lance un nombre de dés équivalent à la somme des
+    échecs comptabilisés pour le plat en question. Pour ce lancer, il compte une
+    fois de plus les succès et les échecs. S'il y a plus d'échecs que de succès,
+    le plat est infect. S'il y a plus de succès que d'échec, le plat est délicieux.
+    S'il y a égalité, le MH devra relancer au moins un dé pour départager ce score.
+
+    En secret, il note sur la fiche **Table** un "+" ou "-" en marge du plat et
+    poursuit le Service.
+
+## Le client est Roi
+
+Dans un premier temps, le MH peut laisser les plats entrer et sortir de manière
+bien lisse et bien tranquille.
+
+Mais il peut inclure à tout moment un caprice, une envie et planter un beau
+poignard dans le dos des Joueurs. Demander à ajouter un ingrédient particulier
+(retour à la Réserve, et pendant ce temps-là, le four risque de cramer le rôti),
+ou un entremet supplémentaire imprévu, qui occasionne un stress supplémentaire.
+
+Ce peut être un handicap pour toute l'équipe.
+
+> Je n'aime pas les Nains, je refuse que ma nourriture soit touchée par un Nain
+> (manque de chance, le Nain en question est le meilleur cuistot de la brigade,
+> il va sérieusement manquer dans le bon déroulement du service)
+
+!!! rule "Stress"
+
+    Chaque Stress supplémentaire occasionne évidemment l'ajout d'un dé
+    supplémentaire, pour un Joueur ou pour chaque Joueur de l'équipe.
 
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
 [creation-des-personnages]: #creation-des-personnages
 [un-service]: #un-service
-[une-commande]: #une-commande
+[une-table]: #une-table
 [la-reserve]: #la-reserve
 [resolution-des-actions]: #resolution-des-actions
 [entree-plat-dessert]: #entree-plat-dessert
+[on-envoie]: #on-envoie
+[le-client-est-roi]: #le-client-est-roi
