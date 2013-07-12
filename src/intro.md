@@ -40,6 +40,31 @@ cet "outre-paravent" est une protection pour eux... Il n'en sera rien, parce que
 le client, même s'il est en-dehors de la cuisine sera leur pire cauchemar. Un
 cauchemar qui a toujours raison.
 
+## La résolution des actions
+
+Pour faire vite et une fois pour toute, chaque fois qu'on demandera au joueur
+d'accomplir une action, il devra jeter "un certain nombre de dés" (déterminés
+par les circonstances). Le nombre de faces des dés n'a aucune importance.
+L'essentiel, c'est qu'il soit en nombre pair. Pour la moitié des résultats, ce
+sera un échec. Pour l'autre moitié, ce sera une réussite. Par convention, avec
+un dé à 6 faces, les résultats de 4 à 6 indiqueront des réussites tandis que les
+les résultats de 1 à 3 seront des échecs.
+
+C'est ce **nombre** d'échecs qui est important. Pour chaque échec, le Maître
+d'Hotel, éventuellement aidé par les autres Personnages Joueurs devra affubler
+le malheureux d'un **Désagrément**. Il peut être de toute nature, en fonction
+des événements. Si le personnage cuit quelque chose, il peut se brûler,
+d'ébouillanter. S'il prépare, il peut se blesser en coupant un morceau. Le
+Maître d'Hôtel est libre d'indiquer la **durée** de ce Désagrément. Il peut
+durer
+
+* encore un tour de jeu,
+* jusqu'à la fin du Service,
+* définitivement.
+
+Chaque **Désagrément** ajoute **UN** dé aux jets, dès lors que le Maître d'Hôtel
+décide que ce Désagrément s'applique (en général, à chaque fois).
+
 ## Déroulement du jeu
 
 1. [Choix de l'Univers][choix-de-l-univers]
@@ -199,7 +224,8 @@ ingrédients. Et c'est leur premier Challenge important.
 
 ### La réserve
 
-TODO
+Qui doit aller dans la Réserve ? Beaucoup tremblent à cette idée, pourtant il
+va bien falloir y aller si on ne veut pas finir dévoré par le Dragon impatient.
 
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
