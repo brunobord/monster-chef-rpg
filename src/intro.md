@@ -40,7 +40,7 @@ cet "outre-paravent" est une protection pour eux... Il n'en sera rien, parce que
 le client, même s'il est en-dehors de la cuisine sera leur pire cauchemar. Un
 cauchemar qui a toujours raison.
 
-## La résolution des actions
+## Résolution des actions
 
 Pour faire vite et une fois pour toute, chaque fois qu'on demandera au joueur
 d'accomplir une action, il devra jeter "un certain nombre de dés" (déterminés
@@ -170,12 +170,12 @@ convives. Attention ! le coup de feu vous guette !
 
 ## Un service
 
-Une partie de Monster Chef s'appelle un Service. En fonction du nombre de Joueurs
-et du temps disponible, la cuisine n'aura à servir qu'un seul convive ou plusieurs,
-simultanément ou l'un après l'autre. Le Maître d'Hôtel peut faire "entrer" dans
-l'établissement autant de convives qu'il veut, s'il estime que les PJ sont un peu
-trop "confortables". Et c'est également lui qui va jouer tous les caprices des
-PNJ, leurs demandes les plus farfelues et les plus abracadabrantes.
+Une partie de **Monster Chef** s'appelle un Service. En fonction du nombre de
+Joueurs et du temps disponible, la cuisine n'aura à servir qu'un seul convive ou
+plusieurs, simultanément ou l'un après l'autre. Le Maître d'Hôtel peut faire
+"entrer" dans l'établissement autant de convives qu'il veut, s'il estime que les
+PJ sont un peu trop "confortables". Et c'est également lui qui va jouer tous les
+caprices des PNJ, leurs demandes les plus farfelues et les plus abracadabrantes.
 
 !!! rule "On ne meurt pas"
 
@@ -227,9 +227,37 @@ ingrédients. Et c'est leur premier Challenge important.
 Qui doit aller dans la Réserve ? Beaucoup tremblent à cette idée, pourtant il
 va bien falloir y aller si on ne veut pas finir dévoré par le Dragon impatient.
 
+Les Joueurs peuvent jouer cette "corvée" aux dés, ou à pile ou face, ou y aller
+à tour de rôle. Globalement, ou plat par plat. S'ils veulent, ils peuvent se
+répartir la tâche. Quoiqu'il en soit, il **faut** que quelqu'un s'y colle si on
+ne veut pas que le Service soit brutalement arrêté.
+
+Monde un peu onirique, la Réserve semble être un puits sans fond. Il y coule
+peut-être une rivière où pêcher les piranha, elle dispose peut-être d'une porte
+donnant sur une vallée dans laquelle poussent les plantes les plus exotiques (et
+les plus mortelles de l'Univers).
+
+!!! rule "Résolution"
+
+    Le PJ devra jeter 3 dés + le nombre d'ingrédients qu'il décide d'aller choisir.
+    Le nombre d'échec décidera le nombre [de désagréments][resolution-des-actions].
+
+> **Exemple**
+> C'est McBrainding qui s'y colle ! il doit aller chercher **tous** les ingrédients
+> des clients pour leur entrée. Ça fait 4 ingrédients. Il lance donc 7 dés.
+> Il ne s'en sort pas mal, il n'a que 2 échecs. Le MH propose que la plante carnivore
+> ne se soit pas laissée faire et qu'elle a essayé de manger notre brave Zombie.
+> Ne l'ayant pas trouvé à son goût, elle ne lui a infligé qu'un Désagrément mineur.
+> McBrainding souffrira d'un dé de pénalité dans le prochain tour.  
+> En revanche, les abeilles de la Montagne Zvra n'aiment pas du tout qu'on leur
+> prenne leur miel, même si leur ruche est choyée dans la Réserve.
+> McBrainding aura, tout le long du Service, un dé de pénalité à cause des abeilles
+> qui le poursuivront sans arrêt.
+
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
 [creation-des-personnages]: #creation-des-personnages
 [un-service]: #un-service
 [une-commande]: #une-commande
 [la-reserve]: #la-reserve
+[resolution-des-actions]: #resolution-des-actions
