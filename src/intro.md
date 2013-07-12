@@ -104,6 +104,10 @@ Alternativement, le MH peut décider de lever un Désagrément déjà en cours.
       pour les effacer.
     * les échecs restants sont appliqués normalement.
 
+!!! rule "Joker"
+
+    Les Jokers ne durent qu'un Service. On ne peut pas les dépenser d'une partie
+    à une autre.
 
 ## Déroulement du jeu
 
@@ -304,7 +308,7 @@ se faire engueuler parce qu'il "en a mis du temps".
 > McBrainding aura, tout le long du Service, un dé de pénalité à cause des abeilles
 > qui le poursuivront sans arrêt.
 
-## Entrée / Plat / Dessert
+### Entrée / Plat / Dessert
 
 Pour chaque plat, les personnages devront s'activer pour couper, trancher,
 cuire, mijoter, saucer et finalement "envoyer" l'assiette.
@@ -343,7 +347,7 @@ fois de suite sur le même plat.
 > En revanche, il pourrait effectuer le **dressage**. Mais s'il a une autre
 > préparation sur les bras, il faudra attendre.
 
-### Résolution des actions
+#### Résolution des actions
 
 !!! rule "Combien de dés ?"
 
@@ -369,7 +373,7 @@ Une fois les dés lancés, on compte les échecs et on ajout les désagréments
     Pour chaque jet de dé, le MH doit noter le nombre d'échecs occasionnés en
     regard de chaque plat sur sa fiche **Table**.
 
-## On envoie !
+### On envoie !
 
 Le plat est prêt. Il peut être envoyé en salle.
 
@@ -396,7 +400,7 @@ encore, pas encore...
     En secret, il note sur la fiche **Table** un "+" ou "-" en marge du plat et
     poursuit le Service.
 
-## Le client est Roi
+### Le client est Roi
 
 Dans un premier temps, le MH peut laisser les plats entrer et sortir de manière
 bien lisse et bien tranquille.
@@ -416,6 +420,46 @@ Ce peut être un handicap pour toute l'équipe.
 
     Chaque Stress supplémentaire occasionne évidemment l'ajout d'un dé
     supplémentaire, pour un Joueur ou pour chaque Joueur de l'équipe.
+
+## Un digestif et l'addition
+
+Enfin, ça y est, le menu a été englouti, totalement. C'est l'heure de faire les 
+comptes. Pour la Table qui vient d'être servie, le Maître d'Hôtel compte les
+"+" et les "-". S'il y a plus de points positifs que de points négatifs, les
+clients sont satisfaits et ils reviendront peut-être un jour. Dans le cas
+contraire, ils sont fort mécontents. Généralement, il arrive de drôles de choses
+aux serveurs. D'ailleurs, peu d'entre eux arrivent à avoir une carrière de plus
+d'une saison.
+
+Les cuisiniers se prendront sans doute un savon par leur Maître d'Hôtel (nous
+comptons sur lui pour être assez inventif concernant les sanctions infligées
+aux Personnages).
+
+S'il y a égalité, c'est l'heure de prendre un petit "Digestif". Au vu et au su
+de tout le monde, le Maître d'Hôtel lance un dé. C'est le résultat de ce seul
+dé qui déterminera le résultat pour la Table.
+
+Dans le cas exceptionnel où il n'y aurait que des "+" pour une Table, les Joueurs
+auraient droit à un peu d'avancement : sous forme d'équipement (magique ou à
+bonus) ou sous la forme d'un point à dépenser dans la compétence qu'ils veulent
+pour **diminuer** un de leurs scores.
+
+!!! rule "Scores à zéro"
+
+    Le Score minimum est bien zéro. Dans l'absolu, avec **0**, on ne lance aucun
+    dé, donc on n'ai aucun échec potentiel. En réalité, avec les handicaps
+    d'équipe (Stress), le nombre de personnes servies ou les Désagréments suite
+    à un passage en Réserve, il y a toujours de grandes chances pour que le
+    résultat des dés indique un Échec à un moment ou un autre.
+
+!!! rule "Zéro partout"
+
+    Avec les 5 compétences à zéro, un Personnage Joueur n'a plus rien à prouver
+    à personne. Il devient un Grand Maître, Chef Étoilé (ou galactifié) et il ne
+    pourra sans doute plus être intégré dans une partie de **Monster Chef**. Il
+    est temps pour lui de prendre sa retraite.
+
+
 
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
