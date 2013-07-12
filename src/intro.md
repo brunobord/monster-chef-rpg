@@ -31,8 +31,8 @@ Ces personnages peuvent facilement être inventés pour un
 "one-shot" mais rien n'empêche les joueurs de se resservir de ces personnages
 dans d'autres aventures (y compris dans un Univers différent).
 
-La section sur l'expérience indiquera comment faire "progresser" les personnages
-d'aventure en aventure.
+[La section sur l'expérience][experience] indiquera comment faire "progresser"
+les personnages d'aventure en aventure.
 
 Les **Personnages Non-Joueurs** (ou PNJ) sont les clients, et les serveurs. Tout
 se qui se passe "en salle" est hors de portée des PJs. Ils peuvent penser que
@@ -121,6 +121,7 @@ Alternativement, le MH peut décider de lever un Désagrément déjà en cours.
     4. ["On envoie !"][on-envoie]
     5. [Le client est roi][le-client-est-roi]
 5. Un digestif et l'addition
+
 
 
 ## Choix de l'Univers
@@ -439,26 +440,10 @@ S'il y a égalité, c'est l'heure de prendre un petit "Digestif". Au vu et au su
 de tout le monde, le Maître d'Hôtel lance un dé. C'est le résultat de ce seul
 dé qui déterminera le résultat pour la Table.
 
-Dans le cas exceptionnel où il n'y aurait que des "+" pour une Table, les Joueurs
-auraient droit à un peu d'avancement : sous forme d'équipement (magique ou à
-bonus) ou sous la forme d'un point à dépenser dans la compétence qu'ils veulent
-pour **diminuer** un de leurs scores.
-
-!!! rule "Scores à zéro"
-
-    Le Score minimum est bien zéro. Dans l'absolu, avec **0**, on ne lance aucun
-    dé, donc on n'ai aucun échec potentiel. En réalité, avec les handicaps
-    d'équipe (Stress), le nombre de personnes servies ou les Désagréments suite
-    à un passage en Réserve, il y a toujours de grandes chances pour que le
-    résultat des dés indique un Échec à un moment ou un autre.
-
-!!! rule "Zéro partout"
-
-    Avec les 5 compétences à zéro, un Personnage Joueur n'a plus rien à prouver
-    à personne. Il devient un Grand Maître, Chef Étoilé (ou galactifié) et il ne
-    pourra sans doute plus être intégré dans une partie de **Monster Chef**. Il
-    est temps pour lui de prendre sa retraite.
-
+Dans le cas exceptionnel où il n'y aurait que des "+" pour une Table, les
+Joueurs auraient droit à un peu d'avancement : sous forme
+[d'équipement][equipement] (magique ou à bonus) ou sous la forme
+[d'expérience][experience].
 
 
 [choix-de-l-univers]: #choix-de-lunivers
@@ -471,3 +456,5 @@ pour **diminuer** un de leurs scores.
 [entree-plat-dessert]: #entree-plat-dessert
 [on-envoie]: #on-envoie
 [le-client-est-roi]: #le-client-est-roi
+[equipement]: options#lequipement
+[experience]: options#lexperience
