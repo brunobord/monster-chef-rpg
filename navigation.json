@@ -1,5 +1,4 @@
 [
-    {"caption": "Basics"},
-    {"url": "quickstart", "caption": "Quickstart (todo)"},
-    {"url": "credits", "caption": "Credits (todo)"}
+    {"caption": "Appendices"},
+    {"url": "credits", "caption": "Crédits"}
 ]

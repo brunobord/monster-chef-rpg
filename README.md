@@ -1,12 +1,27 @@
-# [Project name]
+# Monster Chef
 
-This repository is a boilerplate for booklets / books generated using
-markdown-based files and Jinja templates
+Monster Chef est un jeu de rôle dans lequel les personnages incarnent la brigade
+d'une cuisine "Monstresques", c'est à dire servant uniquement des Monstres ou
+des Aliens ou des Créatures Étranges. Saurez-vous satisfaire l'appétit d'un Ogre
+qui aurait commandé un tartare de Licorne sauce verte, ou un Globurlien affamé
+qui attend ses larves de Ver Galactique au chocolat ?
+
+Les règles sont suffisamment simples pour que quiconque soit capable d'y jouer
+rapidement. L'objectif de ce jeu est de s'amuser et de mettre les personnages
+dans des situations périlleuses (le coup de feu, quand le client est un Dragon
+prend tout son sens) tout en restant rocambolesques, voire *Toonesques*.
 
 ## License
 
-Please License your project the way you want.
+Ce jeu est sous contrat Creative Commons CC-BY-SA (Paternité - Partage à
+l'Identique). Cela signifie que tu es libre de l'utiliser comme bon te semble,
+d'y jouer, d'en faire des "dérivés" (des forks ou des hacks, des extensions),
+tant que ces dérivés mentionnent l'oeuvre originale et sont publiés selon les
+mêmes termes.
 
+---
+
+### Le générateur
 
 The page generator is licensed under the terms of the MIT License.
 
