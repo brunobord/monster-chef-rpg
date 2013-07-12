@@ -62,8 +62,21 @@ durer
 * jusqu'à la fin du Service,
 * définitivement.
 
-Chaque **Désagrément** ajoute **UN** dé aux jets, dès lors que le Maître d'Hôtel
-décide que ce Désagrément s'applique (en général, à chaque fois).
+!!! rule "Combien ça coûte ?"
+
+    Chaque **Désagrément** ajoute **UN** dé aux jets, dès lors que le Maître d'Hôtel
+    décide que ce Désagrément s'applique (en général, à chaque fois).
+
+Durant toute la durée du Désagrément, on pourra matérialiser ce malus par un
+jeton ou un dé de couleur différente posé devant le Joueur.
+
+!!! warning "Commencez léger"
+
+    Si le MH est souverain concernant l'application de ces Désagréments, il lui est
+    tout de même conseillé de ne pas "charger trop tôt" les PJ de Désagréments
+    permanents ou durant trop longtemps. Chaque dé s'additionnant et augmentant
+    encore le nombre de Désagréments potentiels, la partie risque rapidement de
+    devenir injouable (lancer 30 dés en fin de partie, c'est assez laborieux).
 
 ## Déroulement du jeu
 
