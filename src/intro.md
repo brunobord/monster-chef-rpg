@@ -46,14 +46,13 @@ cauchemar qui a toujours raison.
 2. [Nommer le restaurant (ou la cuisine)][nommer-le-restaurant]
 3. [Création des personnages][creation-des-personnages]
 4. [Un service][un-service]
-    1. Une commande
-    2. La Réserve
+    1. [Une commande][une-commande]
+    2. [La Réserve][la-reserve]
     3. Entrée / plat / dessert
     4. "Ça marche !"
     5. "Je veux voir le chef" - le digestif
     6. D'autres clients ?
 5. Un digestif et l'addition
-6. [Règles optionnelles][regles-optionnelles]
 
 
 ## Choix de l'Univers
@@ -155,28 +154,56 @@ PNJ, leurs demandes les plus farfelues et les plus abracadabrantes.
 
 !!! rule "On ne meurt pas"
 
-    Mais il faut d'abord comprendre une chose très importante dans Monster Chef.
-    Aussi périlleuses soient-elles, les actions des personnages durant le
-    service ne pourront **jamais** entraîner leur mort. Certes, ils subiront des
-    dégâts et seront momentanément ou définitivement handicapés par le résultat
-    de ces actions, mais ils ne mourront pas. Et coûte que coûte, il leur faudra
-    continuer à cuisiner, jusqu'à ce que le client finisse la dernière miette de
-    son assiette.
+    Mais il faut d'abord comprendre une chose très importante dans **Monster
+    Chef**. Aussi périlleuses soient-elles, les actions des personnages durant
+    le service ne pourront **jamais** entraîner leur mort. Certes, ils subiront
+    des dégâts et seront momentanément ou définitivement handicapés par le
+    résultat de ces actions, mais ils ne mourront pas. Et coûte que coûte, il
+    leur faudra continuer à cuisiner, jusqu'à ce que le client finisse la
+    dernière miette de son assiette.
 
+Un service démarre toujours par l'arrivée d'un client (ou un convive, ou le
+Seigneur du Château), qui a faim. Une horrible faim...
 
+### Une commande
 
-## Règles optionnelles
+Le Maître d'Hôtel prend une fiche bristol et commence à marquer les éléments
+concernant les convive(s), tout en les décrivant aux Joueurs.
 
-### L'équipement ?
+Après quoi, il leur lancera un "Préparez vos ustensiles, ça va chauffer !"
+tonitruant. (ça ou autre chose).
 
-De manière optionnelle, le MH peut attribuer des "Ustensiles Magiques" aux
-personnages. Il est quand même recommandé de ne pas donner trop vite ces
-Ustensiles aux PJ, pour ne pas rendre trop faciles les premiers services.
+> Allô la Brigade ! On signale l'arrivée d'un couple de Trolls qui n'ont
+> visiblement pas déjeuné depuis trois ou quatre heures ! Ils ont l'air morts de
+> faim et il leur faudra sûrement une grande quantité de viande fraîche.  
+>  
+> **Aiguisez vos couteaux, ça va trancher !!!**
 
-TODO: indications de quelques objets magiques et leurs effets.
+Pour chaque convive, le Maître d'Hôtel prend la commande. Il est libre de choisir
+le menu, qu'il y ait ou non une entrée, un ou plusieurs plats, une farandole de
+desserts... Pour chaque plat, il note son nom et surtout le nombre d'ingrédients 
+nécessaires à sa préparation.
+
+> **Exemple**  
+> En entrée, madame Troll commande un carpaccio de Licorne.
+> Ce plat est relativement simple, il ne comporte **qu'un seul** véritable
+> ingrédient, la viande de Licorne.  
+> En revanche, Monsieur Troll commande une tartine de cuisse de lézard sêché,
+> agrémenté de plante carnivore au miel d'abeille de la Montagne Zvra.  
+> Ce plat est très complexe : il a **trois** ingrédients majeurs. Le lézard, la
+> plante carnivore et le miel.
+
+Munis de cette comande, c'est le moment pour les PJ de lancer leur Service. La
+première étape consistant à justement aller dans la Réserve pour obtenir ces
+ingrédients. Et c'est leur premier Challenge important.
+
+### La réserve
+
+TODO
 
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
 [creation-des-personnages]: #creation-des-personnages
 [un-service]: #un-service
-[regles-optionnelles]: #regles-optionnelles
+[une-commande]: #une-commande
+[la-reserve]: #la-reserve
