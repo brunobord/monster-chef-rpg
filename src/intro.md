@@ -45,7 +45,7 @@ cauchemar qui a toujours raison.
 1. [Choix de l'Univers][choix-de-l-univers]
 2. [Nommer le restaurant (ou la cuisine)][nommer-le-restaurant]
 3. [Création des personnages][creation-des-personnages]
-4. Un service
+4. [Un service][un-service]
     1. Une commande
     2. La Réserve
     3. Entrée / plat / dessert
@@ -138,7 +138,31 @@ pour lesquelles le personnage a le moins de talent ou d'attirance. Le score de
 > à donner **5** aux autres compétences : **préparer**, **cuire** et
 > **dresser**.
 
+Notez ces scores sur votre fiche. Tout y est.
+
+Une fois la brigade composée, tout le monde est prêt pour accueillir les premiers
+convives. Attention ! le coup de feu vous guette !
+
+## Un service
+
+Une partie de Monster Chef s'appelle un Service. En fonction du nombre de Joueurs
+et du temps disponible, la cuisine n'aura à servir qu'un seul convive ou plusieurs,
+simultanément ou l'un après l'autre. Le Maître d'Hôtel peut faire "entrer" dans
+l'établissement autant de convives qu'il veut, s'il estime que les PJ sont un peu
+trop "confortables". Et c'est également lui qui va jouer tous les caprices des
+PNJ, leurs demandes les plus farfelues et les plus abracadabrantes.
+
+!!! rule "On ne meurt pas"
+
+    Mais il faut d'abord comprendre une chose très importante dans Monster Chef.
+    Aussi périlleuses soient-elles, les actions des personnages durant le
+    service ne pourront **jamais** entraîner leur mort. Certes, ils subiront des
+    dégâts et seront momentanément ou définitivement handicapés par le résultat
+    de ces actions, mais ils ne mourront pas. Et coûte que coûte, il leur faudra
+    continuer à cuisiner, jusqu'à ce que le client finisse la dernière miette de
+    son assiette.
 
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
 [creation-des-personnages]: #creation-des-personnages
+[un-service]: #un-service
