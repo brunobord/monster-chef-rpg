@@ -237,6 +237,12 @@ peut-être une rivière où pêcher les piranha, elle dispose peut-être d'une p
 donnant sur une vallée dans laquelle poussent les plantes les plus exotiques (et
 les plus mortelles de l'Univers).
 
+Le temps passé dans la Réserve est "relatif". Même si aller chercher le pollen
+d'une fleur qui ne pousse que sur une Montagne, et que le PJ doit y aller pour
+aller chercher cet ingrédient, ou que l'ingrédient en question se trouvait
+simplement sur l'étagère près de la port, il sera de retour juste à temps pour
+se faire engueuler parce qu'il "en a mis du temps".
+
 !!! rule "Résolution"
 
     Le PJ devra jeter 3 dés + le nombre d'ingrédients qu'il décide d'aller choisir.
