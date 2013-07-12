@@ -438,13 +438,19 @@ aux Personnages).
 
 S'il y a égalité, c'est l'heure de prendre un petit "Digestif". Au vu et au su
 de tout le monde, le Maître d'Hôtel lance un dé. C'est le résultat de ce seul
-dé qui déterminera le résultat pour la Table.
+dé qui déterminera le résultat pour la *Table*.
 
 Dans le cas exceptionnel où il n'y aurait que des "+" pour une Table, les
 Joueurs auraient droit à un peu d'avancement : sous forme
 [d'équipement][equipement] (magique ou à bonus) ou sous la forme
 [d'expérience][experience].
 
+En revanche... Si une Table n'obtient que des points négatifs, c'est la
+**catastrophe totale**. Et les convives mécontents deviendront **furieux**. En
+théorie, ils cassent tout, dévorent tout le monde, pulvérisent l'établissement
+jusqu'à la dernière particule.
+
+On ferme. Désolé, il faudra faire mieux la prochaine fois.
 
 [choix-de-l-univers]: #choix-de-lunivers
 [nommer-le-restaurant]: #nommer-le-restaurant
