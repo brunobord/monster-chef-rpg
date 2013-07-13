@@ -8,6 +8,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
 }
+header h1 {
+  font-family: 'Monsieur La Doulaise', cursive;
+}
 blockquote {
   font-family: 'Lato', sans-serif;
   font-style: italic;
