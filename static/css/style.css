@@ -3,16 +3,16 @@
   max-width: 700px;
 }
 body {
-  /*font-family:'Droid Sans', sans-serif;*/
-  font-family: sans-serif;
+  font-family:'Open Sans', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
-  /*font-family: 'Iceland', cursive;*/
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
+}
+header h1 {
+  font-family: 'Monsieur La Doulaise', cursive;
 }
 blockquote {
-  /*font-family: 'Ubuntu', sans-serif;*/
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
   font-style: italic;
 }
 pre, code, table, tr, td, th {
