@@ -58,8 +58,8 @@ d'ébouillanter. S'il prépare, il peut se blesser en coupant un morceau.
 
 !!! rule "Combien ça coûte ?"
 
-    Chaque **Désagrément** ajoute **UN** dé aux jets, dès lors que le Maître d'Hôtel
-    décide que ce Désagrément s'applique (en général, à chaque fois).
+    Chaque **Désagrément** ajoute **UN** dé aux jets, dès lors que le Maître
+    d'Hôtel décide que ce Désagrément s'applique (en général, à chaque fois).
 
 Le Maître d'Hôtel est libre d'indiquer la **durée** de ce Désagrément. Il peut
 durer :
