@@ -120,7 +120,7 @@ Alternativement, le MH peut décider de lever un Désagrément déjà en cours.
     3. [Entrée / plat / dessert][entree-plat-dessert]
     4. ["On envoie !"][on-envoie]
     5. [Le client est roi][le-client-est-roi]
-5. Un digestif et l'addition
+5. [Un digestif et l'addition][digestif]
 
 
 
@@ -462,5 +462,6 @@ On ferme. Désolé, il faudra faire mieux la prochaine fois.
 [entree-plat-dessert]: #entree-plat-dessert
 [on-envoie]: #on-envoie
 [le-client-est-roi]: #le-client-est-roi
+[digestif]: #un-digestif-et-laddition
 [equipement]: options#lequipement
 [experience]: options#lexperience
