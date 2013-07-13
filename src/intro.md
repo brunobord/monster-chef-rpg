@@ -79,15 +79,15 @@ jeton ou un dé de couleur différente posé devant le Joueur.
     encore le nombre de Désagréments potentiels, la partie risque rapidement de
     devenir injouable (lancer 30 dés en fin de partie, c'est assez laborieux).
 
-### Zéro échec !
+!!! rule "Zéro échec !"
 
-Avec un peu de chance, le Joueur peut lancer les dés de telle sorte qu'aucun
-échec n'y figure. C'est assez exceptionnel, aussi, il convient de récompenser le
-Personnage Joueur méritant en lui offrant un Joker. Lors de son prochain jet de
-dé, il pourra enlever un Échec et donc, un Désagrément de moins lui tombera sur
-la tête.
+    Avec un peu de chance, le Joueur peut lancer les dés de telle sorte qu'aucun
+    échec n'y figure. C'est assez exceptionnel, aussi, il convient de récompenser le
+    Personnage Joueur méritant en lui offrant un Joker. Lors de son prochain jet de
+    dé, il pourra enlever un Échec et donc, un Désagrément de moins lui tombera sur
+    la tête.
 
-Alternativement, le MH peut décider de lever un Désagrément déjà en cours.
+    Alternativement, le MH peut décider de lever un Désagrément déjà en cours.
 
 !!! warning "Prioritaire"
 
