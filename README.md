@@ -19,6 +19,17 @@ d'y jouer, d'en faire des "dérivés" (des forks ou des hacks, des extensions),
 tant que ces dérivés mentionnent l'oeuvre originale et sont publiés selon les
 mêmes termes.
 
+## Téléchargements
+
+Le jeu n'a pas encore été testé, mais est disponible en version bêta.
+
+[Monster Chef est visible au format HTML](http://brunobord.github.io/monster-chef-rpg/) - c'est d'ailleurs
+cette version qui sera "toujours à jour" par rapport aux diverses modifications qu'on pourra y apporter.
+
+De temps à autre, on pourra trouver le jeu sous format PDF :
+
+* [Monster Chef v0.0.1](https://raw.github.com/brunobord/monster-chef-rpg/master/pdfs/monster-chef-v0.0.1.pdf)
+
 ---
 
 ### Le générateur
