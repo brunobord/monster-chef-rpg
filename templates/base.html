@@ -10,30 +10,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<div class="container">
+<div class="container-narrow">
 
 	<header class="row page-header">
 		<h1>{{ title }}</h1>
 	</header>
 
 	<div class="row">
-		<section class="span3">
-			<ul class="nav nav-list">
-				<li {% if current == 'intro' %}class="active"{% endif %}><a href="{{ path_prefix }}/">Le jeu</a>
-				{% for item in navigation recursive %}
-				{% if item.url %}
-					<li {% if item.url == current %}class="active"{% endif %}><a href="{{ path_prefix }}/{{ item.url }}/">{{ item.caption }}</a></li>
-					{%- if item.children -%}
-					<ul class="nav nav-list">{{ loop(item.children) }}</ul>
-					{%- endif -%}
-				{% else %}
-					<li class="nav-header">{{ item.caption }}</li>
-				{% endif %}
-				{% endfor %}
-			</ul>
-		</section>
-
-		<article class="span9">
+		<article>
 			{{ body }}
 		</article>
 
